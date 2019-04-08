@@ -53,7 +53,7 @@ def get_words(_set, _str):
 
 
 if __name__ == "__main__":
-    result = get_words({'quick', 'brown', 'the', 'fox'}, "thequickbrownfox")
+    result = get_words({'quick', 'brown', 'fox'}, "thequickbrownfox")
     print(result)
     result = get_words({'bed', 'bath', 'bedbath', 'and',
                         'beyond'}, "bedbathandbeyond")
