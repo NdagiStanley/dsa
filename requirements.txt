@@ -1,4 +1,4 @@
-autopep8==1.4.3
+autopep8==2.1.0
 flake8==3.7.7
 jupyter==1.0.0
 pip-autoremove==0.9.1
